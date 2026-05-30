@@ -61,10 +61,6 @@ myoblast-tracker-v2/
 
 Python 3.10 or 3.11 is recommended.
 
-```bash
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-# venv\Scripts\activate   # Windows
 
 pip install --upgrade pip
 pip install -r requirements.txt
