@@ -63,6 +63,7 @@ Python 3.10 or 3.11 is recommended.
 
 
 pip install --upgrade pip
+
 pip install -r requirements.txt
 ```
 
