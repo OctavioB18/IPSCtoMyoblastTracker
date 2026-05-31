@@ -23,13 +23,6 @@ A Streamlit-based research tool for exploratory image quality control and annota
 
 ## Installation
 
-Create and activate a virtual environment:
-
-```bash
-python -m venv venv
-source venv/bin/activate   # macOS/Linux
-# venv\Scripts\activate    # Windows
-```
 
 Install dependencies:
 
@@ -37,11 +30,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Optional Cellpose support:
-
-```bash
-pip install -r requirements-cellpose.txt
-```
 
 ## Running the app
 
