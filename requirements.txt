@@ -1,8 +1,0 @@
-streamlit
-numpy
-pandas
-pillow
-opencv-python
-scikit-image
-matplotlib
-cellpose
